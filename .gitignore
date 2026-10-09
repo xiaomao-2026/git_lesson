@@ -1,0 +1,5 @@
+db.sql
+passwords.txt
+*.log
+mode_mod/
+!important.log
